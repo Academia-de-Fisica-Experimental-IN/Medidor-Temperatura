@@ -62,7 +62,7 @@ Para que el código compile correctamente, necesitas instalar las siguientes lib
 
 Este proyecto fue creado con fines educativos y de aprendizaje por:
 
-*   Felipe Colli (F-Patata) 
+*   [Felipe Colli](https://github.com/F-Patata2008) (F-Patata) 
 
 ## 📜 Licencia
 
